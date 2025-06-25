@@ -1,5 +1,4 @@
 version: 2
-enable-beta-ecosystems: true
 updates:
   - package-ecosystem: "devcontainers"
     open-pull-requests-limit: 20
